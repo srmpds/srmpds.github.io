@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
-[Home](index.html) | [CFP.txt](doc/CFP-2018-14th-SRMPDS.txt) | [CFP.pdf](doc/CFP-2018-14th-SRMPDS.pdf) | [Past Events](past.html)
+[Home](index.html) | <a href="doc/CFP-2018-14th-SRMPDS.txt" target="_blank">CFP.txt</a> | <a href="doc/CFP-2018-14th-SRMPDS.pdf" target="_blank">CFP.pdf</a> | [Past Events](past.html)
 
 # About
-The 14th International Workshop on Scheduling and Resource Management for Parallel and Distributed Systems will be held in conjunction with the ICPP'18 - 2018 International Conference on Parallel Processing (http://www.icpp-conf.org).
+The 14th International Workshop on Scheduling and Resource Management for Parallel and Distributed Systems will be held in conjunction with the [ICPP'18](http://www.icpp-conf.org) - 2018 International Conference on Parallel Processing .
 Resource management and scheduling is a crucial task on large-scale computing systems. It plays an essential role in the optimization of resources usage. The goal of this workshop is to bring together researchers and practitioners working in the areas of resource scheduling and resource management to exchange and share their experiences, new ideas, and latest research results on all aspects of scheduling and resource management in parallel and distributed systems including Grids and Clouds.
 
 # List of Topics
@@ -24,7 +24,8 @@ Resource management and scheduling is a crucial task on large-scale computing sy
 * Energy-Aware Resource Management and Scheduling
 
 # Submission Guidelines
-* All papers must be original and not simultaneously submitted to other journal or conference. Papers should not exceed 10 pages in the ACM format located at: https://www.acm.org/publications/proceedings-template 
+* All papers must be original and not simultaneously submitted to other journal or conference. 
+* Papers should not exceed 10 pages in the ACM format at: [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template)
 
 # Important Dates:
 * Submissions Due:        Apr. 15, 2018 => __Apr. 29, 2018 (Firm, Anywhere on earth)__
@@ -33,13 +34,14 @@ Resource management and scheduling is a crucial task on large-scale computing sy
 * Workshop Date:          __Aug. 13, 2018__
 
 # Publication
-* All accepted papers will be available at the conference in proceedings in USB Flash disk format, and will be submitted to the IEEE Xplore and CSDL for EI indexing. After the workshop, the extended version of top few papers will be invited to publish on the Journal of Cluster Computing (2016 Impact Factor: 2.04, 5-Year Impact Factor: 2.08, Quartile: Q2).
+* All accepted papers will be available at the conference in proceedings in USB Flash disk format, and will be submitted to the IEEE Xplore and CSDL for EI indexing. 
+* After the workshop, the extended version of top few papers will be invited to publish on the Journal of Cluster Computing (2016 Impact Factor: 2.04, 5-Year Impact Factor: 2.08, Quartile: Q2).
 
 # Venue
-* The conference will be held in  University of Oregon, Eugene, OR, USA, on 13 August, in conjunction with the ICPP'18 - 2018 International Conference on Parallel Processing (http://www.icpp-conf.org).
+* The conference will be held in  University of Oregon, Eugene, OR, USA, on 13 August, in conjunction with the [ICPP'18](http://www.icpp-conf.org) - 2018 International Conference on Parallel Processing.
 
 # Program
-TBD
+* TBD
 
 # Committees
 ## Program Committee
@@ -70,7 +72,7 @@ TBD
 * Tong Shu (Argonne National Laboratory, USA)
 
 ## Chairs
-* Rajkumar Kettimuthu (Argonne National Laboratory, USA; University of Chicago, USA)
+* [Rajkumar Kettimuthu](http://mcs.anl.gov/~kettimut/) (Argonne National Laboratory, USA; University of Chicago, USA)
 * [Zhengchun Liu](https://lzhengchun.github.io/) (University of Chicago, USA; Argonne National Laboratory, USA)
 
 # Invited Speakers
