@@ -1,0 +1,80 @@
+---
+layout: default
+---
+[Home](index.html) | [Past Events](past.html)
+
+# About
+The 14th International Workshop on Scheduling and Resource Management for Parallel and Distributed Systems will be held in conjunction with the ICPP'18 - 2018 International Conference on Parallel Processing (http://www.icpp-conf.org).
+Resource management and scheduling is a crucial task on large-scale computing systems. It plays an essential role in the optimization of resources usage. The goal of this workshop is to bring together researchers and practitioners working in the areas of resource scheduling and resource management to exchange and share their experiences, new ideas, and latest research results on all aspects of scheduling and resource management in parallel and distributed systems including Grids and Clouds.
+
+# List of Topics
+
+* Resource allocation and management
+* Advance resource reservation and scheduling
+* Load sharing and Load balancing techniques
+* Network resource allocation
+* Fault-tolerant resource management approaches
+* Data access and management
+* Scheduling data intensive jobs
+* Scheduling on heterogeneous nodes
+* Time slicing, gang, or co-scheduling
+* Fairness, priorities, and accounting Issues
+* Performance implications of scheduling strategies
+* Performance metrics to compare scheduling schemes
+* Virtualization of resources
+* Energy-Aware Resource Management and Scheduling
+
+# Committees
+## Program Committee
+* Morris Riedel (Forschungszentrum Juelich GmbH, Germany)
+* Ramin Yahyapour (University of Göttingen, Germany)
+* Giovanni Agosta (Politecnico di Milano, Italy )
+* Michael Sobolewski (SORCER Lab, Texas Tech University, USA)
+* Victor Toporkov (National Research University “MPEI”, Russia )
+* Alejandro Betancourt (Universidad Pontificia Comillas, Spain)
+* Achim Streit (Karlsruhe Institute of Technology, Germany)
+* Alfredo Goldman (University of São Paulo, Brazil)
+* Xiao Qin (Auburn University, USA)
+* William Jones (Coastal Carolina University, USA)
+* Massimiliano Caramia (University of Rome Tor Vergata, Italy)
+* Shubbhi Taneja (Auburn University, USA)
+* Maciej Drozdowski (Poznan University of Technology, Poland)
+* Suren Byna (Lawrence Berkeley National Laboratory, USA)
+* Philipp Wieder (GWDG, Germany)
+* Sangmin Seo (Samsung Research, South Korea)
+* Tae-Young Choe (Kumoh National Institute of Technology, South Korea)
+* Siva Kulasekaran (The University of Texas at Austin, USA)
+* Dinanath Sulakhe (Argonne National Laboratory, USA)
+* Chanik Park (POSTECH, South Korea)
+* Aleardo Manacero (Sao Paulo State University - UNESP, Brazil)
+* Kosuke Kaneko (Kyushu University, Japan)
+* Hiroshi Koide (Kyushu University, Japan)
+* Shikharesh Majumdar (Carleton University, Canada )
+
+## Chairs
+* Rajkumar Kettimuthu (Argonne National Laboratory, USA; University of Chicago, USA)
+* [Zhengchun Liu](https://lzhengchun.github.io/) (University of Chicago, USA; Argonne National Laboratory, USA)
+
+# Invited Speakers
+* Siddhartha Jana. First Global Survey of Energy and Power Aware Job Scheduling and Resource Management - Lessons learned
+
+# Submission Guidelines
+* All papers must be original and not simultaneously submitted to other journal or conference. Papers should not exceed 10 pages in the ACM format located at: https://www.acm.org/publications/proceedings-template 
+
+# Important Dates:
+* Submissions Due:        Apr. 15, 2018 => Apr. 29, 2018 (Firm, Anywhere on earth)
+* Review Decisions:       May 21, 2018 May 26, 2018
+* Final Manuscript Due:   May  31, 2018
+* Workshop Date:          Aug. 13, 2018
+
+# Publication
+* All accepted papers will be available at the conference in proceedings in USB Flash disk format, and will be submitted to the IEEE Xplore and CSDL for EI indexing. After the workshop, the extended version of top few papers will be invited to publish on the Journal of Cluster Computing (2016 Impact Factor: 2.04, 5-Year Impact Factor: 2.08, Quartile: Q2).
+
+# Venue
+* The conference will be held in  University of Oregon, Eugene, OR, USA, on 13 August, in conjunction with the ICPP'18 - 2018 International Conference on Parallel Processing (http://www.icpp-conf.org).
+
+# Program
+TBD
+
+# Contact
+* srmpds-AT-anl.gov (replace -AT- with @), or directly to the organizing committees. CFP in plain text, CFP in PDF
