@@ -27,10 +27,10 @@ Resource management and scheduling is a crucial task on large-scale computing sy
 * All papers must be original and not simultaneously submitted to other journal or conference. Papers should not exceed 10 pages in the ACM format located at: https://www.acm.org/publications/proceedings-template 
 
 # Important Dates:
-* Submissions Due:        Apr. 15, 2018 => Apr. 29, 2018 (Firm, Anywhere on earth)
-* Review Decisions:       May 21, 2018 May 26, 2018
-* Final Manuscript Due:   May  31, 2018
-* Workshop Date:          Aug. 13, 2018
+* Submissions Due:        Apr. 15, 2018 => __Apr. 29, 2018 (Firm, Anywhere on earth)__
+* Review Decisions:       May 21, 2018 => __May 26, 2018__
+* Final Manuscript Due:   May  31, 2018 => __June 14, 2018__
+* Workshop Date:          __Aug. 13, 2018__
 
 # Publication
 * All accepted papers will be available at the conference in proceedings in USB Flash disk format, and will be submitted to the IEEE Xplore and CSDL for EI indexing. After the workshop, the extended version of top few papers will be invited to publish on the Journal of Cluster Computing (2016 Impact Factor: 2.04, 5-Year Impact Factor: 2.08, Quartile: Q2).
@@ -77,4 +77,4 @@ TBD
 * Siddhartha Jana. First Global Survey of Energy and Power Aware Job Scheduling and Resource Management - Lessons learned
 
 # Contact
-* srmpds-AT-anl.gov (replace -AT- with @), or directly to the organizing committees. CFP in plain text, CFP in PDF
+* srmpds-AT-anl.gov (replace -AT- with @), or direct email to chairs. 
