@@ -4,7 +4,7 @@ layout: default
 [Home](index.html) | <a href="doc/CFP-2018-14th-SRMPDS.txt" target="_blank">CFP.txt</a> | <a href="doc/CFP-2018-14th-SRMPDS.pdf" target="_blank">CFP.pdf</a> | [Past Events](past.html)
 
 # About
-The 14th International Workshop on Scheduling and Resource Management for Parallel and Distributed Systems will be held in conjunction with the [ICPP'18](http://www.icpp-conf.org) - 2018 International Conference on Parallel Processing .
+The 14th International Workshop on Scheduling and Resource Management for Parallel and Distributed Systems will be held at University of Oregon on 13 August, in conjunction with the [ICPP'18](http://www.icpp-conf.org) - 2018 International Conference on Parallel Processing.
 Resource management and scheduling is a crucial task on large-scale computing systems. It plays an essential role in the optimization of resources usage. The goal of this workshop is to bring together researchers and practitioners working in the areas of resource scheduling and resource management to exchange and share their experiences, new ideas, and latest research results on all aspects of scheduling and resource management in parallel and distributed systems including Grids and Clouds.
 
 ---
@@ -43,14 +43,14 @@ Resource management and scheduling is a crucial task on large-scale computing sy
 
 ---
 # Venue
-* The conference will be held in  University of Oregon, Eugene, OR, USA, on 13 August, in conjunction with the [ICPP'18](http://www.icpp-conf.org) - 2018 International Conference on Parallel Processing.
+* The conference will be held in University of Oregon, Eugene, OR, USA, on 13 August, in conjunction with the [ICPP'18](http://www.icpp-conf.org) - 2018 International Conference on Parallel Processing.
 
 ---
 # Program
-* list of accepted papers, program TBD
+* A list of accepted papers, final program TBD
 
 | Start | End | Event |
-| | | Dharmendra Prasad Mahato. Cuckoo search-ant colony optimization based scheduling in grid computing |
+| 00:00 | 00:00 | Dharmendra Prasad Mahato. Cuckoo search-ant colony optimization based scheduling in grid computing |
 | | | Claudio Barberato, Peter Strazdins, Eric Mccreath and Muhammad Atif. Efficient Evaluation of Scheduling Metrics Using Emulation: A Case Study in the Effect of Artefacts |
 | | | Marco D'Amico, Marta Garcia-Gasulla, Víctor López, Ana Jokanovic, Raül Sirvent and Julita Corbalan. DROM: Enabling Efficient and Effortless Malleability for Resource Managers |
 | | | Scott Levy, Kevin Pedretti and Kurt Ferreira. Open Science on Trinity’s Knights Landing Partition: An Analysis of User Job Data |
@@ -95,9 +95,9 @@ Resource management and scheduling is a crucial task on large-scale computing sy
 * Tong Shu (Argonne National Laboratory, USA)
 
 ## Chairs
-* [Rajkumar Kettimuthu](http://mcs.anl.gov/~kettimut/) (Argonne National Laboratory, USA; University of Chicago, USA)
 * [Zhengchun Liu](https://lzhengchun.github.io/) (University of Chicago, USA; Argonne National Laboratory, USA)
+* [Rajkumar Kettimuthu](http://mcs.anl.gov/~kettimut/) (Argonne National Laboratory, USA; University of Chicago, USA)
 
 ---
 # Contact
-* srmpds-AT-anl.gov (replace -AT- with @), or direct email to chairs. 
+* srmpds-AT-anl.gov (replace -AT- with @), or directly email to chairs. 
