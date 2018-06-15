@@ -6,7 +6,7 @@ layout: default
 
 | __Event__ | __When__ | __Where__ |
 | [The 13th SRMPDS](https://sites.google.com/site/srmpds/)     | 2017, August 14 | Bristol, United Kingdom | 
-| [The 12th SRMPDS](https://sites.google.com/site/srmpds16/)   | 2016, August 16,   | Philadelphia, PA | 
+| [The 12th SRMPDS](https://sites.google.com/site/srmpds16/)   | 2016, August 16,   | Philadelphia, PA, USA | 
 | [The 11th SRMPDS](https://sites.google.com/site/srmpds15/)   | 2015, September 1  | Beijing, China | 
 | [The 10th SRMPDS](http://www.mcs.anl.gov/~kettimut/srmpds/)  | 2014, September 9  | Minneapolis, MN, USA | 
 | [The 9th SRMPDS](http://www.mcs.anl.gov/~kettimut/srmpds13/) | 2013, October 1  | Lyon, France | 
