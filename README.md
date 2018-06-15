@@ -1,1 +1,1 @@
-This is the repository of the international workshop on [SRMPDS](https://srmpds.github.io) project page. https://srmpds.github.io
+This is the repository of the international workshop on [SRMPDS](https://srmpds.github.io) webpage. https://srmpds.github.io
