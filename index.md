@@ -68,6 +68,7 @@ Resource management and scheduling is a crucial task on large-scale computing sy
 | 15:25 | 16:50 | Peixin Qiao, Xin Wang, Xu Yang, Yuping Fan and Zhiling Lan. Joint Effects of Application Communication Pattern, Job Placement and Network Routing on Fat-Tree Systems |
 | 16:50 | 17:15 | Siddhartha Jana. First Global Survey of Energy and Power Aware Job Scheduling and Resource Management - Lessons learned |
 | 17:15 | 17:20 | Closing SRMPDS'18 workshop and Announcing SRMPDS'19 |
+
 ---
 # Committees
 ## Program Committee
