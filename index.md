@@ -47,7 +47,7 @@ Resource management and scheduling is a crucial task on large-scale computing sy
 
 ---
 # Program
-(tentative)
+(__tentative__)
 
 | Start | End | Event |
 | 09:00 | 09:15 | Opening Remarks | 
