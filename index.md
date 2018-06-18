@@ -47,7 +47,7 @@ Resource management and scheduling is a crucial task on large-scale computing sy
 
 ---
 # Program
-* (tentative)
+(tentative)
 
 | Start | End | Event |
 | 09:15 | 09:40 | Dharmendra Prasad Mahato. Cuckoo search-ant colony optimization based scheduling in grid computing |
