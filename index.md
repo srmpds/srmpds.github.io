@@ -47,7 +47,7 @@ Resource management and scheduling is a crucial task on large-scale computing sy
 
 ---
 # Program
-(__tentative__)
+(The pregram is __tentative__. The event will be held at the Erb Memorial Union of the University of Oregon. The Building Map is available [here](https://emu.uoregon.edu/map).)
 
 | __Start__ | __End__ | __Event__ |
 | :---: | :---: | :----: |
