@@ -49,7 +49,7 @@ Resource management and scheduling is a crucial task on large-scale computing sy
 # Program
 (__tentative__)
 
-| Start | End | Event |
+| __Start time__ | __End time__ | __Event__ |
 | 09:00 | 09:15 | Opening Remarks | 
 | 09:15 | 09:40 | Dharmendra Prasad Mahato. ___Cuckoo search-ant colony optimization based scheduling in grid computing___ |
 | 09:40 | 10:05 | Claudio Barberato, Peter Strazdins, Eric Mccreath and Muhammad Atif. ___Efficient Evaluation of Scheduling Metrics Using Emulation: A Case Study in the Effect of Artefacts___ |
