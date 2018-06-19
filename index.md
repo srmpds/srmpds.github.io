@@ -43,11 +43,11 @@ Resource management and scheduling is a crucial task on large-scale computing sy
 
 ---
 # Venue
-* The conference will be held in University of Oregon, Eugene, OR, USA, on 13 August, in conjunction with the [ICPP'18](http://www.icpp-conf.org) - 2018 International Conference on Parallel Processing.
+* The workshop will be held in University of Oregon, Eugene, OR, USA, on 13 August, in conjunction with the [ICPP'18](http://www.icpp-conf.org) - 2018 International Conference on Parallel Processing.
 
 ---
 # Program
-(The pregram is __tentative__. The event will be held at the Erb Memorial Union of the University of Oregon. The Building Map is available [here](https://emu.uoregon.edu/map).)
+Events will be held on August 13, at the Erb Memorial Union of the University of Oregon. The Building Map is available [here](https://emu.uoregon.edu/map).
 
 | __Start__ | __End__ | __Event__ |
 | :---: | :---: | :----: |
