@@ -51,24 +51,30 @@ Resource management and scheduling is a crucial task on large-scale computing sy
 
 | __Start__ | __End__ | __Event__ |
 | :---: | :---: | :----: |
-| `09:00` | `09:15` | Opening Remarks | 
-| `09:15` | `09:40` | Dharmendra Prasad Mahato. ___Cuckoo search-ant colony optimization based scheduling in grid computing___ |
-| `09:40` | `10:05` | Claudio Barberato, Peter Strazdins, Eric Mccreath and Muhammad Atif. ___Efficient Evaluation of Scheduling Metrics Using Emulation: A Case Study in the Effect of Artefacts___ |
-| `10:05` | `10:30` | Marco D'Amico, Marta Garcia-Gasulla, Víctor López, Ana Jokanovic, Raül Sirvent and Julita Corbalan. ___DROM: Enabling Efficient and Effortless Malleability for Resource Managers___ |
-| `10:30` | `11:00` | __Coffee break__ | 
+| `09:00` | `09:05` | Opening Remarks | 
+| `09:05` | `09:50` | Keynote Speech | 
+| 09:50 | 10:40 | `Session I: Energy Aware` |
+| `09:50` | `10:15` | Abdelhafid Mazouz, David C. Wong, David Kuck and William Jalby. ___Power-Constrained Optimal Quality for High Performance Servers___ |
+| `10:15` | `10:40` | Siddhartha Jana. ___First Global Survey of Energy and Power Aware Job Scheduling and Resource Management - Lessons learned___ |
+| `10:40` | `11:00` | __Coffee break__ | 
+| 11:00 | 12:15 | `Session II: Data Anlysis` |
 | `11:00` | `11:25` | Scott Levy, Kevin Pedretti and Kurt Ferreira. ___Open Science on Trinity’s Knights Landing Partition: An Analysis of User Job Data___ |
-| `11:25` | `11:50` | Victor Toporkov and Dmitry Yemelyanov. ___Resources Co-Allocation Optimization Algorithms for Distributed Computing Environments___ |
-| `11:50` | `12:15` | Masoud Gholami, Florian Schintke and Thorsten Schütt. ___Checkpoint Scheduling for Shared Usage of Burst-Buffers in Supercomputers___ |
-| `12:15` | `14:00` | Dheeraj Chahal, Benny Mathew and Manoj Nambiar. ___Predicting the Runtime of Memory Intensive Batch Workloads___ |
-| `13:50` | `14:15` | Alfred Shaker, Johnnie W. Baker, Gokarna Sharma and Mike Yuan. ___Performance Comparison of NVIDIA accelerators with SIMD, Associative, and Multi-core Processors for Air Traffic Management___ |
-| `14:15` | `14:40` | Dharanipragada Janakiram, S J Balaji, Akshay Dhumal, Nishank Garg and Ganesh Kulkarni. ___GAS: GPU Assisted Process Scheduling for Multicore Systems___ |
-| `14:40` | `15:05` | Jonas Markussen, Lars Bjørlykke Kristiansen, Håkon Kvale Stensland, Friedrich Seifert, Carsten Griwodz and Pål Halvorsen. ___Flexible Device Sharing in PCIe Clusters using Device Lending___ |
-| `15:05` | `15:30`| Jordi Alcaraz Rodriguez, Anna Sikora and Eduardo Cesar Galobardes. ___Dynamic Tuning of OpenMP Memory Bound Applications in Multisocket Systems using MATE___ |
-| `15:30` | `16:00` | __Coffee break__ | 
-| `16:00` | `16:25` | Abdelhafid Mazouz, David C. Wong, David Kuck and William Jalby. ___Power-Constrained Optimal Quality for High Performance Servers___ |
-| `15:25` | `16:50` | Peixin Qiao, Xin Wang, Xu Yang, Yuping Fan and Zhiling Lan. ___Joint Effects of Application Communication Pattern, Job Placement and Network Routing on Fat-Tree Systems___ |
-| `16:50` | `17:15` | Siddhartha Jana. ___First Global Survey of Energy and Power Aware Job Scheduling and Resource Management - Lessons learned___ |
-| `17:15` | `17:20` | Closing SRMPDS'18 workshop and Announcing SRMPDS'19 |
+| `11:25` | `11:50` | Dheeraj Chahal, Benny Mathew and Manoj Nambiar. ___Predicting the Runtime of Memory Intensive Batch Workloads___ |
+| `11:50` | `12:15` | Alfred Shaker, Johnnie W. Baker, Gokarna Sharma and Mike Yuan. ___Performance Comparison of NVIDIA accelerators with SIMD, Associative, and Multi-core Processors for Air Traffic Management___ |
+| `12:15` | `13:30` | __Lunch__ | 
+| 13:30 | 15:35 | `Session III: Resource Allocation and Management` |
+| `13:30` | `13:55` | Marco D'Amico, Marta Garcia-Gasulla, Víctor López, Ana Jokanovic, Raül Sirvent and Julita Corbalan. ___DROM: Enabling Efficient and Effortless Malleability for Resource Managers___ |
+| `13:55` | `14:20` | Victor Toporkov and Dmitry Yemelyanov. ___Resources Co-Allocation Optimization Algorithms for Distributed Computing Environments___ |
+| `14:20` | `13:45` | Jonas Markussen, Lars Bjørlykke Kristiansen, Håkon Kvale Stensland, Friedrich Seifert, Carsten Griwodz and Pål Halvorsen. ___Flexible Device Sharing in PCIe Clusters using Device Lending___ |
+| `14:45` | `15:10` | Jordi Alcaraz Rodriguez, Anna Sikora and Eduardo Cesar Galobardes. ___Dynamic Tuning of OpenMP Memory Bound Applications in Multisocket Systems using MATE___ |
+| `15:10` | `15:35` | Peixin Qiao, Xin Wang, Xu Yang, Yuping Fan and Zhiling Lan. ___Joint Effects of Application Communication Pattern, Job Placement and Network Routing on Fat-Tree Systems___ |
+| `15:35` | `16:00` | __Coffee break__ | 
+| 16:00 | 17:40 | `Session IV: Scheduling for Parallel and Distributed Systems` |
+| `16:00` | `16:25` | Dharmendra Prasad Mahato. ___Cuckoo search-ant colony optimization based scheduling in grid computing___ |
+| `16:25` | `16:50` | Claudio Barberato, Peter Strazdins, Eric Mccreath and Muhammad Atif. ___Efficient Evaluation of Scheduling Metrics Using Emulation: A Case Study in the Effect of Artefacts___ |
+| `16:50` | `17:15` | Masoud Gholami, Florian Schintke and Thorsten Schütt. ___Checkpoint Scheduling for Shared Usage of Burst-Buffers in Supercomputers___ |
+| `17:15` | `17:40` | Dharanipragada Janakiram, S J Balaji, Akshay Dhumal, Nishank Garg and Ganesh Kulkarni. ___GAS: GPU Assisted Process Scheduling for Multicore Systems___ |
+| `17:40` | `17:45` | Closing SRMPDS'18 workshop and Announcing SRMPDS'19 |
 
 ---
 # Committees
