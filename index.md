@@ -105,6 +105,14 @@ Events will be held on August 13, at the Erb Memorial Union of the University of
 * Shikharesh Majumdar (Carleton University, Canada )
 * Tong Shu (Argonne National Laboratory, USA)
 
+## Subreviewers:
+* Yuanlai Liu, University of California, Riverside, USA
+* Joaquin Chung, Argonne National Laboratory, USA
+* Mehmet Soysal, Karlsruhe Institute of Technology, Germany
+* Michael Witt, Hochschule für Technik und Wirtschaft Berlin, Germany
+* Shehenaz Shaik, Auburn University, USA
+* Marcos Amarís González, University of São Paulo, Brazil
+
 ## Chairs
 * [Zhengchun Liu](https://lzhengchun.github.io/) (University of Chicago, USA; Argonne National Laboratory, USA)
 * [Rajkumar Kettimuthu](http://mcs.anl.gov/~kettimut/) (Argonne National Laboratory, USA; University of Chicago, USA)
