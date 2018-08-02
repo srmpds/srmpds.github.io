@@ -57,7 +57,7 @@ Events will be held on August 13, at the Erb Memorial Union of the University of
 | `09:50` | `10:15` | Abdelhafid Mazouz, David C. Wong, David Kuck and William Jalby. ___Power-Constrained Optimal Quality for High Performance Servers___ |
 | `10:15` | `10:40` | Siddhartha Jana. ___First Global Survey of Energy and Power Aware Job Scheduling and Resource Management - Lessons learned___ |
 | `10:40` | `11:00` | __Coffee break__ | 
-| 11:00 | 12:15 | `Session II: Data Anlysis` |
+| 11:00 | 12:15 | `Session II: Data Anlysis`<br> Session Chair: Jonas Markussen, University of Oslo, Norway |
 | `11:00` | `11:25` | Scott Levy, Kevin Pedretti and Kurt Ferreira. ___Open Science on Trinity’s Knights Landing Partition: An Analysis of User Job Data___ |
 | `11:25` | `11:50` | Dheeraj Chahal, Benny Mathew and Manoj Nambiar. ___Predicting the Runtime of Memory Intensive Batch Workloads___ |
 | `11:50` | `12:15` | Alfred Shaker, Johnnie W. Baker, Gokarna Sharma and Mike Yuan. ___Performance Comparison of NVIDIA accelerators with SIMD, Associative, and Multi-core Processors for Air Traffic Management___ |
