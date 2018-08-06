@@ -47,7 +47,7 @@ Resource management and scheduling is a crucial task on large-scale computing sy
 
 ---
 # Program
-Events will be held on August 13, at the Erb Memorial Union of the University of Oregon. The Building Map is available [here](https://emu.uoregon.edu/map).
+Events will be held on August 13, ___Straub Hall, Room 245___, at the ___Erb Memorial Union___ of the University of Oregon. The Building Map is available [here](https://emu.uoregon.edu/map).
 
 | __Start__ | __End__ | __Event__ |
 | :---: | :---: | :----: |
