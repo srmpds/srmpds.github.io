@@ -53,7 +53,7 @@ Events will be held on August 13, ___Straub Hall, Room 245___, at the ___Erb Mem
 | :---: | :---: | :----: |
 | `09:00` | `09:05` | Opening Remarks | 
 | `09:05` | `09:50` | Keynote Presentation <br> [Henry Hoffmann](http://people.cs.uchicago.edu/~hankhoffmann/) <br> Associate Professor, the University of Chicago| 
-| 09:50 | 10:40 | `Session I: Energy Aware` <br> **Session Chair:** TBD |
+| 09:50 | 10:40 | `Session I: Energy Aware` <br> **Session Chair:** Peter Strazdins, Australian National University|
 | `09:50` | `10:15` | Abdelhafid Mazouz, David C. Wong, David Kuck and William Jalby. ___Power-Constrained Optimal Quality for High Performance Servers___ |
 | `10:15` | `10:40` | Siddhartha Jana. ___First Global Survey of Energy and Power Aware Job Scheduling and Resource Management - Lessons learned___ |
 | `10:40` | `11:00` | __Coffee break__ | 
