@@ -62,7 +62,7 @@ Events will be held on August 13, ___Straub Hall, Room 245___, at the ___Erb Mem
 | `11:25` | `11:50` | Dheeraj Chahal, Benny Mathew and Manoj Nambiar. ___Predicting the Runtime of Memory Intensive Batch Workloads___ |
 | `11:50` | `12:15` | Alfred Shaker, Johnnie W. Baker, Gokarna Sharma and Mike Yuan. ___Performance Comparison of NVIDIA accelerators with SIMD, Associative, and Multi-core Processors for Air Traffic Management___ |
 | `12:15` | `13:30` | __Lunch__ | 
-| 13:30 | 15:35 | `Session III: Resource Allocation and Management` <br> **Session Chair:** TBD |
+| 13:30 | 15:35 | `Session III: Resource Allocation and Management` <br> **Session Chair:** Johnnie W. Baker, Kent State University|
 | `13:30` | `13:55` | Marco D'Amico, Marta Garcia-Gasulla, Víctor López, Ana Jokanovic, Raül Sirvent and Julita Corbalan. ___DROM: Enabling Efficient and Effortless Malleability for Resource Managers___ |
 | `13:55` | `14:20` | Victor Toporkov and Dmitry Yemelyanov. ___Resources Co-Allocation Optimization Algorithms for Distributed Computing Environments___ |
 | `14:20` | `13:45` | Jonas Markussen, Lars Bjørlykke Kristiansen, Håkon Kvale Stensland, Friedrich Seifert, Carsten Griwodz and Pål Halvorsen. ___Flexible Device Sharing in PCIe Clusters using Device Lending___ |
