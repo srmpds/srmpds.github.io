@@ -65,7 +65,7 @@ Events will be held on August 13, ___Straub Hall, Room 245___, at the ___Erb Mem
 | `12:15` | `13:30` | __Lunch__ | 
 | 13:30 | 15:35 | `Session III: Resource Allocation and Management` <br> **Session Chair:** Johnnie W. Baker, Kent State University|
 | `13:30` | `13:55` | Marco D'Amico, Marta Garcia-Gasulla, Víctor López, Ana Jokanovic, Raül Sirvent and Julita Corbalan. ___DROM: Enabling Efficient and Effortless Malleability for Resource Managers___ |
-| `13:55` | `14:20` | Victor Toporkov and Dmitry Yemelyanov. ___Resources Co-Allocation Optimization Algorithms for Distributed Computing Environments___ |
+| `13:55` | `14:20` | Victor Toporkov and Dmitry Yemelyanov. ___Resources Co-Allocation Optimization Algorithms for Distributed Computing Environments___ [[Video](https://www.youtube.com/watch?v=h6KfBKdVHOU)] |
 | `14:20` | `13:45` | Jonas Markussen, Lars Bjørlykke Kristiansen, Håkon Kvale Stensland, Friedrich Seifert, Carsten Griwodz and Pål Halvorsen. ___Flexible Device Sharing in PCIe Clusters using Device Lending___ |
 | `14:45` | `15:10` | Jordi Alcaraz Rodriguez, Anna Sikora and Eduardo Cesar Galobardes. ___Dynamic Tuning of OpenMP Memory Bound Applications in Multisocket Systems using MATE___ |
 | `15:10` | `15:35` | Peixin Qiao, Xin Wang, Xu Yang, Yuping Fan and Zhiling Lan. ___Joint Effects of Application Communication Pattern, Job Placement and Network Routing on Fat-Tree Systems___ |
@@ -73,7 +73,7 @@ Events will be held on August 13, ___Straub Hall, Room 245___, at the ___Erb Mem
 | 16:00 | 17:40 | `Session IV: Scheduling for Parallel and Distributed Systems` <br> **Session Chair:** Abdelhafid Mazouz, Bull Atos Technologies |
 | `16:00` | `16:25` | Claudio Barberato, Peter Strazdins, Eric Mccreath and Muhammad Atif. ___Efficient Evaluation of Scheduling Metrics Using Emulation: A Case Study in the Effect of Artefacts___ [[Slides](http://users.cecs.anu.edu.au/~peter/seminars/emulSlides.pdf), [Video](http://users.cecs.anu.edu.au/~peter/seminars/emulSlides.mp4)]|
 | `16:25` | `16:50` | Dharmendra Prasad Mahato. ___Cuckoo search-ant colony optimization based scheduling in grid computing___ |
-| `16:50` | `17:15` | Masoud Gholami, Florian Schintke and Thorsten Schütt. ___Checkpoint Scheduling for Shared Usage of Burst-Buffers in Supercomputers___[[Video](https://youtu.be/V3Vm4NgszII)]|
+| `16:50` | `17:15` |Masoud Gholami, Florian Schintke and Thorsten Schütt ___Checkpoint Scheduling for Shared Usage of Burst-Buffers in Supercomputers___ [[Video](https://youtu.be/V3Vm4NgszII)]|
 | `17:15` | `17:40` | Dharanipragada Janakiram, S J Balaji, Akshay Dhumal, Nishank Garg and Ganesh Kulkarni. ___GAS: GPU Assisted Process Scheduling for Multicore Systems___ |
 | `17:40` | `17:45` | Closing SRMPDS'18 workshop and Announcing SRMPDS'19 |
 
