@@ -42,8 +42,8 @@ Resource management and scheduling is a crucial task on large-scale computing sy
 * After the workshop, the extended version of top few papers will be invited to publish on the Journal of Cluster Computing (2016 Impact Factor: 2.04, 5-Year Impact Factor: 2.08, Quartile: Q2).
 * Workshop proceedings is available at [ACM Digital Library](https://dl.acm.org/citation.cfm?id=3229710)
 
-## Invite to extend and publish in Journal of Cluster Computing
-Based on the reviews of the original submission and the presentation at the workshop, two papers listed below have been selected to extend and publish in Journal of Cluster Computing
+## Invite to extend and publish in the Journal of Cluster Computing
+Based on the reviews of the original submission and the presentation at the workshop, two papers listed below have been selected to extend and publish in the Journal of Cluster Computing
 
 * Claudio Barberato, Peter Strazdins, Eric Mccreath and Muhammad Atif. ___Efficient Evaluation of Scheduling Metrics Using Emulation: A Case Study in the Effect of Artefacts___
 * Jonas Markussen, Lars Bjørlykke Kristiansen, Håkon Kvale Stensland, Friedrich Seifert, Carsten Griwodz and Pål Halvorsen. ___Flexible Device Sharing in PCIe Clusters using Device Lending___
