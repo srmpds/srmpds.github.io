@@ -29,7 +29,7 @@ Resource management and scheduling is a crucial task on large-scale computing sy
 # Submission Guidelines
 * All papers must be original and not simultaneously submitted to other journal or conference. 
 * Papers should not exceed 10 pages in the ACM format at: [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template)
-* Submission Link:[TBD]()
+* Submission Link:[https://easychair.org/conferences/?conf=srmpds2019](https://easychair.org/conferences/?conf=srmpds2019)
 
 ---
 # Important Dates:
@@ -54,7 +54,6 @@ TBD
 
 ---
 # Committees
-## Program Committee
 TBD
 
 ## Chairs
