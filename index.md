@@ -33,10 +33,10 @@ Resource management and scheduling is a crucial task on large-scale computing sy
 
 ---
 # Important Dates:
-* Submissions Due:        Apr. 15, 2018(Firm, Anywhere on earth)
-* Review Decisions:       May 21, 2018 
-* Final Manuscript Due:   May  31, 2018 
-* Workshop Date:          __Aug. 5, 2018__
+* Submissions Due:        Apr. 15, 2019
+* Review Decisions:       May 21, 2019
+* Final Manuscript Due:   May  31, 2019 
+* Workshop Date:          __Aug. 5, 2019__
 
 ---
 # Publication
