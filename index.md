@@ -77,7 +77,7 @@ TBD
 <!-- * Dinanath Sulakhe (Argonne National Laboratory, USA) -->
 * Chanik Park (POSTECH, South Korea)
 * Eun-Sung Jung, (Hongik University, South Korea)
-<!-- * Aleardo Manacero (Sao Paulo State University - UNESP, Brazil) -->
+* Aleardo Manacero (Sao Paulo State University - UNESP, Brazil)
 <!-- * Kosuke Kaneko (Kyushu University, Japan) -->
 <!-- * Hiroshi Koide (Kyushu University, Japan) -->
 * Shikharesh Majumdar (Carleton University, Canada)
