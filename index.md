@@ -85,6 +85,7 @@ TBD
 * Abdelhafid Mazouz, (Intel, USA)
 * Beau Johnston, (Australian National University, Australia)
 * Yongwei Wu, (Tsinghua University, China)
+* Rajdeep Bhowmik, (Cisco Systems, Inc.)
 
 ## Chairs
 * [Zhengchun Liu](https://lzhengchun.github.io/) (University of Chicago, USA; Argonne National Laboratory, USA)
