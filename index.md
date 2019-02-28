@@ -69,7 +69,7 @@ TBD
 * Massimiliano Caramia (University of Rome Tor Vergata, Italy)
 * Shubbhi Taneja (Auburn University, USA)
 * Maciej Drozdowski (Poznan University of Technology, Poland)
-<!-- * Suren Byna (Lawrence Berkeley National Laboratory, USA) -->
+Suren Byna (Lawrence Berkeley National Laboratory, USA)
 <!-- * Philipp Wieder (GWDG, Germany) -->
 <!-- * Sangmin Seo (Samsung Research, South Korea) -->
 <!-- * Tae-Young Choe (Kumoh National Institute of Technology, South Korea) -->
@@ -86,6 +86,8 @@ TBD
 * Beau Johnston, (Australian National University, Australia)
 * Yongwei Wu, (Tsinghua University, China)
 * Rajdeep Bhowmik, (Cisco Systems, Inc.)
+* Gokarna Sharma, (Kent State University, USA)
+* Johnnie Baker, (Kent State University, USA)
 
 ## Chairs
 * [Zhengchun Liu](https://lzhengchun.github.io/) (University of Chicago, USA; Argonne National Laboratory, USA)
