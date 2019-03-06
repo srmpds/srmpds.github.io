@@ -60,7 +60,7 @@ TBD
 <!-- * Morris Riedel (Forschungszentrum Juelich GmbH, Germany) -->
 <!-- * Giovanni Agosta (Politecnico di Milano, Italy ) -->
 <!-- * Michael Sobolewski (SORCER Lab, Texas Tech University, USA) -->
-<!-- * Victor Toporkov (National Research University “MPEI”, Russia ) -->
+<!-- * Victor Toporkov (National Research University "MPEI", Russia ) -->
 <!-- * Alejandro Betancourt (Universidad Pontificia Comillas, Spain) -->
 * Achim Streit (Karlsruhe Institute of Technology, Germany)
 * Alfredo Goldman (University of São Paulo, Brazil)
@@ -70,7 +70,7 @@ TBD
 * Shubbhi Taneja (Auburn University, USA)
 * Maciej Drozdowski (Poznan University of Technology, Poland)
 Suren Byna (Lawrence Berkeley National Laboratory, USA)
-<!-- * Philipp Wieder (GWDG, Germany) -->
+Philipp Wieder (GWDG, Germany)
 <!-- * Sangmin Seo (Samsung Research, South Korea) -->
 <!-- * Tae-Young Choe (Kumoh National Institute of Technology, South Korea) -->
 <!-- * Siva Kulasekaran (The University of Texas at Austin, USA) -->
@@ -88,6 +88,7 @@ Suren Byna (Lawrence Berkeley National Laboratory, USA)
 * Rajdeep Bhowmik, (Cisco Systems, Inc.)
 * Gokarna Sharma, (Kent State University, USA)
 * Johnnie Baker, (Kent State University, USA)
+* Nandini Mukherjee, (Jadavpur University, India)
 
 ## Chairs
 * [Zhengchun Liu](https://lzhengchun.github.io/) (University of Chicago, USA; Argonne National Laboratory, USA)
