@@ -4,7 +4,7 @@ layout: default
 [Home](index.html) | <a href="doc/CFP-2019-15th-SRMPDS.txt" target="_blank">CFP.txt</a> | <a href="doc/CFP-2019-15th-SRMPDS.pdf" target="_blank">CFP.pdf</a> | [Past Events](past.html)
 
 # About
-The 15th International Workshop on Scheduling and Resource Management for Parallel and Distributed Systems will be held at the Kyoto Research Park (KRP), Kyoto, Japan, in conjunction with the [ICPP'19](https://www.hpcs.cs.tsukuba.ac.jp/icpp2019/) - 2019 International Conference on Parallel Processing.
+The ___15th___ International Workshop on Scheduling and Resource Management for Parallel and Distributed Systems will be held at the Kyoto Research Park (KRP), Kyoto, Japan, in conjunction with the [ICPP'19](https://www.hpcs.cs.tsukuba.ac.jp/icpp2019/) - 2019 International Conference on Parallel Processing.
 
 Resource management and scheduling is a crucial task on large-scale computing systems. It plays an essential role in the optimization of resources usage. The goal of this workshop is to bring together researchers and practitioners working in the areas of resource scheduling and resource management to exchange and share their experiences, new ideas, and latest research results on all aspects of scheduling and resource management in parallel and distributed systems including Grids and Clouds.
 
