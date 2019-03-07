@@ -82,7 +82,7 @@ TBD
 <!-- * Hiroshi Koide (Kyushu University, Japan) -->
 * Shikharesh Majumdar (Carleton University, Canada)
 * Jonas Markussen, (Simula Research Laboratory and University of Oslo, Norway)
-* Abdelhafid Mazouz, (Intel, USA)
+* Abdelhafid Mazouz, (Atos, France)
 * Beau Johnston, (Australian National University, Australia)
 * Yongwei Wu, (Tsinghua University, China)
 * Rajdeep Bhowmik, (Cisco Systems, Inc.)
