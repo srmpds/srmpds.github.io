@@ -50,7 +50,19 @@ Resource management and scheduling is a crucial task on large-scale computing sy
 
 ---
 # Program
-TBD
+| __Start__ | __End__ |                          __Event__                           |
+| :-------: | :-----: | :----------------------------------------------------------: |
+|  `09:00`  | `09:05` |                       Opening Remarks                        |
+|  `09:05`  | `09:50` | `Keynote Presentation` <br> ___CobaltV2:  What would you do with a blank sheet of paper?___ <br> [William(Bill) Allcock](https://www.anl.gov/profile/william-bill-e-allcock), Argonne National Laboratory <br> <a href="./doc/srmpds-19-keynote.pdf" target="_blank">Abstract & Bio</a> |
+|   09:50   |  10:40  |    `Session I: Energy Aware` <br> **Session Chair:** TBD     |
+|  `09:50`  | `10:15` | Mehmet Soysal, Marco Berghoff, Dalibor Klusacek, Achim Streit. ___On the Quality of Wall Time Estimates for Resource Allocation Prediction___ |
+|  `10:15`  | `10:40` | Luan Teylo, Luciana Arantes, Pierre Sens, Lucia Maria de A. Drummond. ___A Hibernation Aware Dynamic Scheduler for Cloud Environments___ |
+|  `10:40`  | `11:00` |                       __Coffee break__                       |
+|  `11:00`  |         | `Session II`<br/>**Session Chair:** [Lúcia Drummond](http://www.ic.uff.br/~lucia/) |
+|  `11:00`  | `11:25` | Hamza Djigal, Jun Feng, Jiamin Lu. ___Task Scheduling for Heterogeneous Computing using a Predict Cost Matrix___ |
+|  `11:25`  | `11:50` | Qiufen Xia, Luyao Bai, Weifa Liang, Zichuan Xu, Lin Yao, Lei Wang. ___QoS-Aware Proactive Data Replication for Big Data Analytics in Edge Clouds___ |
+|  `11:50`  | `12:15` | Yan Baicheng, Yang Zhang, Xiao Limin, Zhou Yi, Wei Bing, Song Yao. ___LPMS: A Low-cost Topology-aware Process Mapping Method for Large-scale Parallel Applications on Shared HPC Systems___ |
+|  `12:15`  | `12:20` |     Closing SRMPDS'19 workshop and Announcing SRMPDS'20      |
 
 ---
 # Organizers
