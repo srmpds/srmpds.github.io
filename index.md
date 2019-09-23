@@ -55,7 +55,7 @@ Events will be held on August 5th, ___Room A___, at the ___Kyoto Research Park (
 | __Start__ | __End__ |                          __Event__                           |
 | :-------: | :-----: | :----------------------------------------------------------: |
 |  `09:00`  | `09:05` |                       Opening Remarks                        |
-|  `09:05`  | `09:50` | `Keynote Presentation` <br> ___CobaltV2:  What would you do with a blank sheet of paper?___ <br> [William(Bill) Allcock](https://www.anl.gov/profile/william-bill-e-allcock), Argonne National Laboratory <br> <a href="./doc/srmpds-19-keynote.pdf" target="_blank">Abstract & Bio</a>, <a href="./doc/SRMPDS-2019-Allcock.pdf" target="_blank">__Slides__]</a> |
+|  `09:05`  | `09:50` | `Keynote Presentation` <br> ___CobaltV2:  What would you do with a blank sheet of paper?___ <br> [William(Bill) Allcock](https://www.anl.gov/profile/william-bill-e-allcock), Argonne National Laboratory <br> <a href="./doc/srmpds-19-keynote.pdf" target="_blank">[Abstract & Bio]</a>, <a href="./doc/SRMPDS-2019-Allcock.pdf" target="_blank">[__Slides__]</a> |
 |   09:50   |  10:40  | `Session I: Scheduling in Clouds ` <br> **Session Chair:** [Zichuan Xu](https://zichuanxu.com/), Dalian University of Technology |
 |  `09:50`  | `10:15` | Qiufen Xia, Luyao Bai, Weifa Liang, Zichuan Xu, Lin Yao, Lei Wang. ___QoS-Aware Proactive Data Replication for Big Data Analytics in Edge Clouds___ |
 |  `10:15`  | `10:40` | Luan Teylo, Luciana Arantes, Pierre Sens, Lucia Maria de A. Drummond. ___A Hibernation Aware Dynamic Scheduler for Cloud Environments___, <span style="color:red">Invited to submit an extended version for the Journal</span> |
