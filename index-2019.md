@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
-[Home](index.html) | <a href="doc/CFP-2020-16th-SRMPDS.txt" target="_blank">CFP.txt</a> | <a href="doc/CFP-2020-16th-SRMPDS.pdf" target="_blank">CFP.pdf</a> | [Past Events](past.html)
+[Home](index.html) | <a href="doc/CFP-2019-15th-SRMPDS.txt" target="_blank">CFP.txt</a> | <a href="doc/CFP-2019-15th-SRMPDS.pdf" target="_blank">CFP.pdf</a> | [Past Events](past.html)
 
 # About
-The ___16th___ International Workshop on Scheduling and Resource Management for Parallel and Distributed Systems will be held in Edmonton, AB, Canada, in conjunction with the [ICPP'20](https://jnamaral.github.io/icpp20/) - 2020 International Conference on Parallel Processing.
+The ___15th___ International Workshop on Scheduling and Resource Management for Parallel and Distributed Systems will be held at the Kyoto Research Park (KRP), Kyoto, Japan, in conjunction with the [ICPP'19](https://www.hpcs.cs.tsukuba.ac.jp/icpp2019/) - 2019 International Conference on Parallel Processing.
 
 Resource management and scheduling is a crucial task on large-scale computing systems. It plays an essential role in the optimization of resources usage. The goal of this workshop is to bring together researchers and practitioners working in the areas of resource scheduling and resource management to exchange and share their experiences, new ideas, and latest research results on all aspects of scheduling and resource management in parallel and distributed systems including Grids and Clouds.
 
@@ -29,28 +29,42 @@ Resource management and scheduling is a crucial task on large-scale computing sy
 # Submission Guidelines
 * All papers must be original and not simultaneously submitted to other journal or conference. 
 * Papers should not exceed 10 pages in the ACM format at: [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template)
-* Submission Link:[https://easychair.org/conferences/?conf=srmpds2020](https://easychair.org/conferences/?conf=srmpds2020)
+* Submission Link:[https://easychair.org/conferences/?conf=srmpds2019](https://easychair.org/conferences/?conf=srmpds2019)
 
 ---
 # Important Dates:
-* Submissions Due:        Apr. 1, 2020
-* Review Decisions:       May  21, 2020 
-* Final Manuscript Due:   June 7, 2020
-* Workshop Date:          __Aug. 17, 2020__
+* Submissions Due:        Apr. 15, 2019 => __May  5, 2019 (Firm, Anywhere on earth)__
+* Review Decisions:       May  21, 2019 => __May 31, 2019__
+* Final Manuscript Due:   June 7, 2019 
+* Workshop Date:          __Aug. 5, 2019__
 
 ---
 # Publication
 * All accepted papers will be available at the conference in proceedings in USB Flash disk format, and will be submitted to the IEEE Xplore and CSDL for EI indexing. 
-* After the workshop, the extended version of top few papers will be invited to publish on the Journal of Cluster Computing (2016 Impact Factor: 2.04, 5-Year Impact Factor: 2.08, Quartile: Q2);  
-* The 2019 workshop proceedings is available at [ACM Digital Library](https://dl.acm.org/citation.cfm?id=3229710), <span style="color:red">Two papers are invited in 2019</span> 
+* After the workshop, the extended version of top few papers will be invited to publish on the Journal of Cluster Computing (2016 Impact Factor: 2.04, 5-Year Impact Factor: 2.08, Quartile: Q2);  <span style="color:red">Two papers are invited this year</span> .
+* Workshop proceedings is available at [ACM Digital Library](https://dl.acm.org/citation.cfm?id=3229710)
 
 ---
 # Venue
-* The workshop will be held in Edmonton, AB, Canada, on August 17, in conjunction with the [ICPP'20](https://jnamaral.github.io/icpp20/) - 2020 International Conference on Parallel Processing.
+* The workshop will be held at the Kyoto Research Park (KRP), Kyoto, Japan, the old Capital City of Japan, on 5 August, in conjunction with the [ICPP'19](https://www.hpcs.cs.tsukuba.ac.jp/icpp2019/) - 2019 International Conference on Parallel Processing.
 
 ---
 # Program
-TBD
+Events will be held on August 5th, ___Room A___, at the ___Kyoto Research Park (KRP)___. The local guide is available [here](https://www.hpcs.cs.tsukuba.ac.jp/icpp2019/venue-and-travel/index.html).
+
+| __Start__ | __End__ |                          __Event__                           |
+| :-------: | :-----: | :----------------------------------------------------------: |
+|  `09:00`  | `09:05` |                       Opening Remarks                        |
+|  `09:05`  | `09:50` | `Keynote Presentation` <br> ___CobaltV2:  What would you do with a blank sheet of paper?___ <br> [William(Bill) Allcock](https://www.anl.gov/profile/william-bill-e-allcock), Argonne National Laboratory <br> <a href="./doc/srmpds-19-keynote.pdf" target="_blank">[Abstract & Bio]</a>, <a href="./doc/SRMPDS-2019-Allcock.pdf" target="_blank">[Slides]</a> |
+|   09:50   |  10:40  | `Session I: Scheduling in Clouds ` <br> **Session Chair:** [Zichuan Xu](https://zichuanxu.com/), Dalian University of Technology |
+|  `09:50`  | `10:15` | Qiufen Xia, Luyao Bai, Weifa Liang, Zichuan Xu, Lin Yao, Lei Wang. ___QoS-Aware Proactive Data Replication for Big Data Analytics in Edge Clouds___ |
+|  `10:15`  | `10:40` | Luan Teylo, Luciana Arantes, Pierre Sens, Lucia Maria de A. Drummond. ___A Hibernation Aware Dynamic Scheduler for Cloud Environments___, <span style="color:red">Invited to submit an extended version to the Journal</span> |
+|  `10:40`  | `11:00` |                       __Coffee break__                       |
+|  `11:00`  |         | `Session II: Scheduling in HPC`<br/>**Session Chair:** [Lúcia Drummond, ](http://www.ic.uff.br/~lucia/), Fluminense Federal University |
+|  `11:00`  | `11:25` | Hamza Djigal, Jun Feng, Jiamin Lu. ___Task Scheduling for Heterogeneous Computing using a Predict Cost Matrix___ |
+|  `11:25`  | `11:50` | Mehmet Soysal, Marco Berghoff, Dalibor Klusacek, Achim Streit. ___On the Quality of Wall Time Estimates for Resource Allocation Prediction___, <span style="color:red">Invited to submit an extended version to the Journal</span> |
+|  `11:50`  | `12:15` | Yan Baicheng, Yang Zhang, Xiao Limin, Zhou Yi, Wei Bing, Song Yao. ___LPMS: A Low-cost Topology-aware Process Mapping Method for Large-scale Parallel Applications on Shared HPC Systems___ |
+|  `12:15`  | `12:20` |     Closing SRMPDS'19 workshop and Announcing SRMPDS'20      |
 
 ---
 # Organizers
@@ -89,7 +103,6 @@ TBD
 * Gokarna Sharma, (Kent State University, USA)
 * Johnnie Baker, (Kent State University, USA)
 * Nandini Mukherjee, (Jadavpur University, India)
-* Inviting...
 
 ## Chairs
 * [Zhengchun Liu](https://lzhengchun.github.io/) (University of Chicago, USA; Argonne National Laboratory, USA)
