@@ -56,29 +56,17 @@ TBD
 ## Program Committee
 ### Continue inviting and adding...
 * Ramin Yahyapour (University of Göttingen, Germany)
-<!-- * Morris Riedel (Forschungszentrum Juelich GmbH, Germany) -->
-<!-- * Giovanni Agosta (Politecnico di Milano, Italy ) -->
-<!-- * Michael Sobolewski (SORCER Lab, Texas Tech University, USA) -->
-<!-- * Victor Toporkov (National Research University "MPEI", Russia ) -->
-<!-- * Alejandro Betancourt (Universidad Pontificia Comillas, Spain) -->
 * Achim Streit (Karlsruhe Institute of Technology, Germany)
 * Alfredo Goldman (University of São Paulo, Brazil)
 * Xiao Qin (Auburn University, USA)
-<!-- * William Jones (Coastal Carolina University, USA) -->
 * Massimiliano Caramia (University of Rome Tor Vergata, Italy)
 * Shubbhi Taneja (Auburn University, USA)
 * Maciej Drozdowski (Poznan University of Technology, Poland)
 * Suren Byna (Lawrence Berkeley National Laboratory, USA)
 * Philipp Wieder (GWDG, Germany)
-<!-- * Sangmin Seo (Samsung Research, South Korea) -->
-<!-- * Tae-Young Choe (Kumoh National Institute of Technology, South Korea) -->
-<!-- * Siva Kulasekaran (The University of Texas at Austin, USA) -->
-<!-- * Dinanath Sulakhe (Argonne National Laboratory, USA) -->
 * Chanik Park (POSTECH, South Korea)
 * Eun-Sung Jung, (Hongik University, South Korea)
 * Aleardo Manacero (Sao Paulo State University - UNESP, Brazil)
-<!-- * Kosuke Kaneko (Kyushu University, Japan) -->
-<!-- * Hiroshi Koide (Kyushu University, Japan) -->
 * Shikharesh Majumdar (Carleton University, Canada)
 * Jonas Markussen, (Simula Research Laboratory and University of Oslo, Norway)
 * Abdelhafid Mazouz, (Atos, France)
