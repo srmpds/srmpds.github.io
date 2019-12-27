@@ -42,7 +42,6 @@ Resource management and scheduling is a crucial task on large-scale computing sy
 # Publication
 * All accepted papers will be available at the conference in proceedings in USB Flash disk format, and will be submitted to the IEEE Xplore and CSDL for EI indexing. 
 * After the workshop, the extended version of top few papers will be invited to publish on the Journal of Cluster Computing (2016 Impact Factor: 2.04, 5-Year Impact Factor: 2.08, Quartile: Q2);  
-* The 2019 workshop proceedings is available at [ACM Digital Library](https://dl.acm.org/citation.cfm?id=3229710), <span style="color:red">Two papers are invited in 2019</span> 
 
 ---
 # Venue
