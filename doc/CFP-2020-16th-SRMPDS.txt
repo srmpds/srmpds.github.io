@@ -1,0 +1,69 @@
+Call For Paper || The 16th SRMPDS || Edmonton, AB, Canada, Aug. 17, 2020
+
+SCOPE
+==================
+The 16th International Workshop on Scheduling and Resource Management for Parallel and Distributed Systems (SRMPDS'20) will be held in conjunction with the ICPP'20 - 49th International Conference on Parallel Processing in Edmonton, Canada, August 17, 2020.
+Resource management and scheduling is a crucial task on large-scale computing systems. It plays an essential role in the optimization of resources usage. The goal of this workshop is to bring together researchers and practitioners working in the areas of resource scheduling and resource management to exchange and share their experiences, new ideas, and latest research results on all aspects of scheduling and resource management in parallel and distributed systems including Grids and Clouds.
+
+SUBMISSIONS
+==================
+Papers should not exceed 10 pages in the ACM format located at: https://www.acm.org/publications/proceedings-template
+Papers should be submitted via https://easychair.org/conferences/?conf=srmpds2020
+All accepted papers will be available in ICPP'20 workshop proceedings, and will be submitted to the ACM Digital Library for publishing and CSDL for EI indexing. After the workshop, the extended version of top few papers will be invited to publish on the Journal of Cluster Computing (2016 Impact Factor: 2.04, 5-Year Impact Factor: 2.08, Quartile: Q2).
+
+IMPORTANT DATES
+==================
+* Submissions Due:       Apr. 1,  2020  
+* Review Decisions:      May  21, 2020 
+* Final Manuscript Due:  Jun. 7,  2020
+* Workshop Date:         Aug. 17, 2020
+
+TOPICS
+==================
+Topics of interest for the workshop include but are not limited to: 
+* Resource allocation and management
+* Advance resource reservation and scheduling
+* Load sharing and Load balancing techniques
+* Network resource allocation
+* Fault-tolerant resource management approaches
+* Data access and management
+* Scheduling data intensive jobs
+* Scheduling on heterogeneous nodes
+* Time slicing, gang, or co-scheduling
+* Fairness, priorities, and accounting Issues
+* Performance implications of scheduling strategies
+* Performance metrics to compare scheduling schemes
+* Virtualization of resources
+
+ORGANIZERS
+====================
+Program committees
+* Ramin Yahyapour (University of Göttingen, Germany)
+* Achim Streit (Karlsruhe Institute of Technology, Germany)
+* Alfredo Goldman (University of São Paulo, Brazil)
+* Xiao Qin (Auburn University, USA)
+* Massimiliano Caramia (University of Rome Tor Vergata, Italy)
+* Shubbhi Taneja (Auburn University, USA)
+* Maciej Drozdowski (Poznan University of Technology, Poland) 
+* Suren Byna (Lawrence Berkeley National Laboratory, USA) 
+* Philipp Wieder (GWDG, Germany)
+* Chanik Park (POSTECH, South Korea)
+* Eun-Sung Jung, (Hongik University, South Korea)
+* Aleardo Manacero (Sao Paulo State University - UNESP, Brazil)
+* Shikharesh Majumdar (Carleton University, Canada)
+* Jonas Markussen, (Simula Research Laboratory and University of Oslo, Norway)
+* Abdelhafid Mazouz, (Atos, France)
+* Beau Johnston, (Australian National University, Australia)
+* Yongwei Wu, (Tsinghua University, China)
+* Rajdeep Bhowmik, (Cisco Systems, Inc.)
+* Gokarna Sharma, (Kent State University, USA)
+* Johnnie Baker, (Kent State University, USA)
+* Nandini Mukherjee, (Jadavpur University, India)
+
+Organizing committees
+* Rajkumar Kettimuthu (Argonne National Laboratory and University of Chicago, USA)
+* Zhengchun Liu (Argonne National Laboratory, USA)
+
+CONTACT
+====================
+For further details and updates, please consult the workshop web site at URL: https://srmpds.github.io/ or contact to srmpds@anl.gov.
