@@ -9,11 +9,11 @@ SUBMISSIONS
 ==================
 Papers should not exceed 10 pages in the ACM format located at: https://www.acm.org/publications/proceedings-template
 Papers should be submitted via https://easychair.org/conferences/?conf=srmpds2020
-All accepted papers will be available in ICPP'20 workshop proceedings, and will be submitted to the ACM Digital Library for publishing and CSDL for EI indexing. After the workshop, the extended version of top few papers will be invited to publish on the Journal of Cluster Computing (2016 Impact Factor: 2.04, 5-Year Impact Factor: 2.08, Quartile: Q2).
+All accepted papers will be available in ICPP'20 workshop proceedings, and will be submitted to the ACM Digital Library for publishing and CSDL for EI indexing. After the workshop, the extended version of top few papers will be invited to publish on the Journal of Cluster Computing (2016 Impact Factor: 1.85, Quartile: Q2).
 
 IMPORTANT DATES
 ==================
-* Submissions Due:       Apr. 1,  2020  
+* Submissions Due:       Apr. 1,  2020  => Apr. 14,  2020
 * Review Decisions:      May  21, 2020 
 * Final Manuscript Due:  Jun. 7,  2020
 * Workshop Date:         Aug. 17, 2020
