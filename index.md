@@ -49,7 +49,20 @@ Resource management and scheduling is a crucial task on large-scale computing sy
 
 ---
 # Program
-TBD
+Events will be held on August 17th virtually. All time is UTC.
+
+| __Start__ | __End__ |                          __Event__                           |
+| :-------: | :-----: | :----------------------------------------------------------: |
+|  `12:00`  | `12:05` |                       Opening Remarks                        |
+|  `12:05`  | `13:00` | `Keynote Presentation` <br> ___TBD___ <br> [Zhiling Lan](http://www.cs.iit.edu/~zlan/), Illinois Institute of Technology <br> <a href="./doc/SRMPDS-2020-keynote-abstract.pdf" target="_blank">[Abstract & Bio]</a>, <a href="./doc/SRMPDS-2020-keynote-slides.pdf" target="_blank">[Slides]</a> |
+|  `13:00`  | `13:05` | Amirhossein Sayyadabdi, Mohsen Sharifi (Iran University of Science and Technology). ___Avoiding Register Overflow in the Bakery Algorithm___ |
+|  `13:05`   | `13:10`  | Priya Mishra, Tushar Agarwal, Preeti Malakar (Indian Institute of Technology Kanpur). ___Communication-aware Job Scheduling using SLURM ___ |
+|  `13:10`   | `13:15`  | Sunimal Rathnayake(National University of Singapore), Lavanya Ramapantulu (Nanyang Technological University), Yong Meng Teo(National University of Singapore). ___Characterizing the Cost-Accuracy Performance of Cloud Applications___ |
+|  `13:15`   | `13:20` | Jing Chen, Pirah Noor Soomro, Mustafa Abduljabbar, Madhavan Manivannan, Miquel Pericas (Chalmers University of Technology). ___Scheduling Task-parallel Applications in Dynamically Asymmetric Environments___ |
+|  `13:20`   | `13:25` | Ashish Kumar, Naman Jain, Preeti Malakar(Indian Institute of Technology Kanpur). ___Network and Load-aware Resource Manager for MPI Programs___ |
+|  `13:25`   | `13:30` | Luan Teylo, Rafaela C. Brum (Fluminense Federal University), Luciana Arantes( Sorbonne Université), Pierre Sens (Sorbonne Université), Lúcia Maria de A. Drummond (Fluminense Federal University). ___Developing Checkpointing and Recovery  Procedures with the  Storage Services of Amazon Web Services___ |
+|  `13:30`   | `14:00` | ___Q & A, Discussion___ |
+|  `14:00`  | `14:05` |     Closing SRMPDS'20 workshop and Announcing SRMPDS'21      |
 
 ---
 # Organizers
