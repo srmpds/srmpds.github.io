@@ -54,7 +54,7 @@ Events will be held on August 17th virtually. All time is UTC.
 | __Start__ | __End__ |                          __Event__                           |
 | :-------: | :-----: | :----------------------------------------------------------: |
 |  `12:00`  | `12:05` |                       Opening Remarks                        |
-|  `12:05`  | `13:00` | `Keynote Presentation` <br> ___TBD___ <br> [Zhiling Lan](http://www.cs.iit.edu/~zlan/), Illinois Institute of Technology <br> <a href="./doc/SRMPDS-2020-keynote-abstract.pdf" target="_blank">[Abstract & Bio]</a>, <a href="./doc/SRMPDS-2020-keynote-slides.pdf" target="_blank">[Slides]</a> |
+|  `12:05`  | `13:00` | `Keynote Presentation` <br> ___Toward Smart HPC via Intelligent Scheduling___ <br> [Zhiling Lan](http://www.cs.iit.edu/~zlan/), Illinois Institute of Technology <br> <a href="./doc/SRMPDS-2020-keynote-abstract.pdf" target="_blank">[Abstract & Bio]</a>, <a href="./doc/SRMPDS-2020-keynote-slides.pdf" target="_blank">[Slides]</a> |
 |  `13:00`  | `13:05` | Amirhossein Sayyadabdi, Mohsen Sharifi (Iran University of Science and Technology). ___Avoiding Register Overflow in the Bakery Algorithm___ |
 |  `13:05`   | `13:10`  | Priya Mishra, Tushar Agarwal, Preeti Malakar (Indian Institute of Technology Kanpur). ___Communication-aware Job Scheduling using SLURM ___ |
 |  `13:10`   | `13:15`  | Sunimal Rathnayake(National University of Singapore), Lavanya Ramapantulu (Nanyang Technological University), Yong Meng Teo(National University of Singapore). ___Characterizing the Cost-Accuracy Performance of Cloud Applications___ |
