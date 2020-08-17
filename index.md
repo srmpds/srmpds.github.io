@@ -51,12 +51,12 @@ Resource management and scheduling is a crucial task on large-scale computing sy
 # Program
 Events will be held on August 17th virtually. All time is **UTC!!!**. 
 
-The keynote will be **live** presentation. After the keynote, each paper will have 5 minutes to briefly introduce their work. We assume that our audience has watched the full presentation recording before the workshop. We start Q & A for all papers, after all 5-minutes teaser talk. 
+The keynote will be **live** presentation. After the keynote, each paper will have 5 minutes to briefly introduce their work([Compiled Slides](./doc/pitch-slides.pdf)). We assume that our audience has watched the full presentation recording before the workshop. We start Q & A for all papers, after all 5-minutes teaser talk. 
 
 | __Start__ | __End__ |                          __Event__                           |
 | :-------: | :-----: | :----------------------------------------------------------: |
 |  `12:00`  | `12:05` |                       Opening Remarks                        |
-|  `12:05`  | `13:00` | `Keynote Presentation` <br> ___Toward Smart HPC via Intelligent Scheduling___ <br> [Zhiling Lan](http://www.cs.iit.edu/~zlan/), Illinois Institute of Technology <br> <a href="./doc/SRMPDS-2020-keynote-abstract.pdf" target="_blank">[Abstract & Bio]</a>, <a href="./doc/SRMPDS-2020-keynote-slides.pdf" target="_blank">[Slides]</a> |
+|  `12:05`  | `13:00` | `Keynote Presentation` <br> ___Toward Smart HPC via Intelligent Scheduling___ <br> [Zhiling Lan](http://www.cs.iit.edu/~zlan/), Illinois Institute of Technology <br> <a href="./doc/SRMPDS-2020-keynote-abstract.pdf" target="_blank">[Abstract & Bio]</a>, <a href="./doc/SRMPDS-2020-keynote-slides.pdf" target="_blank">[Slides]</a>, [[Talk on YouTube]()]|
 |  `13:00`  | `13:05` | Amirhossein Sayyadabdi, Mohsen Sharifi (Iran University of Science and Technology). ___Avoiding Register Overflow in the Bakery Algorithm___,[[Talk on YouTube](https://youtu.be/nKQ4wwJ3550), [Slides](https://jnamaral.github.io/icpp20/slides/Sayyadabdi_Avoiding.pdf)] |
 |  `13:05`   | `13:10`  | Priya Mishra, Tushar Agarwal, Preeti Malakar (Indian Institute of Technology Kanpur). ___Communication-aware Job Scheduling using SLURM___. [[Talk on YouTube](https://youtu.be/h5KQ1v3bWAQ), [Slides](https://jnamaral.github.io/icpp20/slides/Mishra_Communication.pdf)] |
 |  `13:10`   | `13:15`  | Sunimal Rathnayake(National University of Singapore), Lavanya Ramapantulu (Nanyang Technological University), Yong Meng Teo(National University of Singapore). ___Characterizing the Cost-Accuracy Performance of Cloud Applications___, [[Talk on YouTube](https://youtu.be/MXdpaOUZCB4), [Slides](https://jnamaral.github.io/icpp20/slides/Rathnayake_Characterizing.pdf)] |
