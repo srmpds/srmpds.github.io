@@ -49,7 +49,7 @@ Resource management and scheduling is a crucial task on large-scale computing sy
 
 ---
 # Program
-Events will be held on August 17th virtually. All time is UTC. 
+Events will be held on August 17th virtually. All time is **UTC!!!**. 
 
 The keynote will be **live** presentation. After the keynote, each paper will have 5 minutes to briefly introduce their work. We assume that our audience has watched the full presentation recording before the workshop. We start Q & A for all papers, after all 5-minutes teaser talk. 
 
