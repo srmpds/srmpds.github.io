@@ -40,7 +40,7 @@ Resource management and scheduling is a crucial task on large-scale computing sy
 
 ---
 # Publication
-* All accepted papers will be available in ICPP'20 workshop proceedings, and will be submitted to the ACM Digital Library for publishing and CSDL for EI indexing.
+* All accepted papers will be available in [ICPP'20 workshop proceedings](https://dl.acm.org/doi/proceedings/10.1145/3409390), and will be submitted to the ACM Digital Library for publishing and CSDL for EI indexing.
 * After the workshop, the extended version of top few papers will be invited to publish on the Journal of Cluster Computing (2016 Impact Factor: 2.04, 5-Year Impact Factor: 2.08, Quartile: Q2);  
 
 ---
