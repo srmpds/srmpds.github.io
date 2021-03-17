@@ -4,7 +4,7 @@ layout: default
 [Home](index.html) | <a href="doc/CFP-2021-16th-SRMPDS.txt" target="_blank">CFP.txt</a> | <a href="doc/CFP-2021-17th-SRMPDS.pdf" target="_blank">CFP.pdf</a> | [Past Events](past.html)
 
 # About
-The ___17th___ International Workshop on Scheduling and Resource Management for Parallel and Distributed Systems will be held in Edmonton, AB, Canada, in conjunction with the [ICPP'21](https://oaciss.uoregon.edu/icpp21/index.php) - 2021 International Conference on Parallel Processing.
+The ___17th___ International Workshop on Scheduling and Resource Management for Parallel and Distributed Systems will be held at Argonne National Laboratory in IL, USA, in conjunction with the [ICPP'21](https://oaciss.uoregon.edu/icpp21/index.php) - 2021 International Conference on Parallel Processing.
 
 Resource management and scheduling is a crucial task on large-scale computing systems. It plays an essential role in the optimization of resources usage. The goal of this workshop is to bring together researchers and practitioners working in the areas of resource scheduling and resource management to exchange and share their experiences, new ideas, and latest research results on all aspects of scheduling and resource management in parallel and distributed systems including Grids and Clouds.
 
@@ -29,13 +29,13 @@ Resource management and scheduling is a crucial task on large-scale computing sy
 # Submission Guidelines
 * All papers must be original and not simultaneously submitted to other journal or conference. 
 * Papers should not exceed 10 pages in the ACM format at: [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template)
-* Submission Link:[TBD]().
+* Submission Link:[https://ssl.linklings.net/conferences/icpp/](https://ssl.linklings.net/conferences/icpp/), please make sure to select SRMPDS after log in the system.
 
 ---
 # Important Dates:
 * Submissions Due:        May 1st, 2021
 * Review Decisions:       June  23rd, 2021
-* Final Manuscript Due:   June 7th, 2021
+* Final Manuscript Due:   June 28th, 2021
 * Workshop Date:          __Aug. 9th-10th, 2021__
 
 ---
