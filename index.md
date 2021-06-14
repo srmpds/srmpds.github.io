@@ -55,7 +55,7 @@ Resource management and scheduling is a crucial task on large-scale computing sy
 * Alfredo Goldman (University of São Paulo, Brazil)
 * Xiao Qin (Auburn University, USA)
 * Massimiliano Caramia (University of Rome Tor Vergata, Italy)
-* Shubbhi Taneja (Auburn University, USA)
+* Shubbhi Taneja (Sonoma State University, USA)
 * Maciej Drozdowski (Poznan University of Technology, Poland)
 * Suren Byna (Lawrence Berkeley National Laboratory, USA)
 * Philipp Wieder (GWDG, Germany)
